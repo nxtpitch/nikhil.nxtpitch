@@ -1,4 +1,2 @@
-# nikhil.nxtpitch
-
-
-Landing Page for Nikhil Swaminathan. 
+# aniveera1.github.io
+Source code for my personal website
