@@ -1,2 +1,2 @@
-# aniveera1.github.io
-Source code for my personal website
+# nikhil.nxtpitch.com 
+Source Code for Nikhil Swaminathan's NXTPitch page
